@@ -28,7 +28,11 @@ Day 1: (break 2:15 pm)
                 > MAC address (Home router)
             > Physical
                 > Converted to electronic signals (0 and 1)
-                
+
+        > IP (Public and Private)
+
+    2> Ethics
+        > 
         
 
             
