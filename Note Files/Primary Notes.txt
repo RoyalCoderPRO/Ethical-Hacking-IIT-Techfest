@@ -33,9 +33,25 @@ Day 1: (break 2:15 pm)
 
     2> Ethics
         > Governance, Risk, and Compliance (GRC)
-        > 
-        
-
+    
+    3> Hacker Steps
+        > Recon (email id's, etc.)
+        > Weaponization (creating virus)
+        > Delivery (email)
+        > Exploitation (finding vulnerabilities)
+        > Installation
+        > Command and control (c2) -> remote manipulation
+    4> CIA
+        > Confidentiality
+        > Integrity
+        > Availability
+    
+    5>
+        > Authentication
+        > Authorization
+        > Accounting
+    
+    
             
         
 
