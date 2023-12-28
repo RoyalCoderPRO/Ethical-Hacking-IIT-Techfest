@@ -1,0 +1,39 @@
+Day 1: (break 2:15 pm)
+    1> Understanding and explanations of objectives behind Ethical Hacking
+        > Security in corporate
+
+        Key Point: Start with 'Fundamentals of network' (OSI model and architecture) (Open System Interconnection)-> guidline
+            
+            OSI Model
+            > Application Layer (example: Chrome)
+            > Application Layer Protocols (example: HTTP (port no. 80))
+            > Random Ports(Port no.'s after 1024) typically used for Attacks (Trojan, Virus, etc.)
+            > Data Layer
+            > Presentation Layer (converting data layer to standard format)
+                > Example: Binary to ASCII
+                > Includes Compression, Encryption, etc.
+            > Session Layer (example: login sustanance using 'session ID')
+            > Transport Layer
+                > Segmentation (packets)
+                > Sequencing and Reassembling (indexing)
+                    * UDP faster (due to no acknowledgement) than TCP
+                    * TCP more reliable than UDP
+                
+            Key Point: WireShark
+                > Error Correction (example: Checksum)
+            > Network Layer
+                > IP address
+                > Packet size (64-1500 bytes)
+            > Data Link
+                > MAC address (Home router)
+            > Physical
+                > Converted to electronic signals (0 and 1)
+                
+        
+
+            
+        
+
+
+
+
