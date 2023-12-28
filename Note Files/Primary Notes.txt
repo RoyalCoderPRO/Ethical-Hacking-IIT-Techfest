@@ -50,11 +50,5 @@ Day 1: (break 2:15 pm)
         > Authentication
         > Authorization
         > Accounting
-    
-    
-            
+
         
-
-
-
-
